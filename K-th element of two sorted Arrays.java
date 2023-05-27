@@ -48,11 +48,7 @@ class Solution {
     public long kthElement( int arr1[], int arr2[], int n, int m, int k) {
        
         int a1 = arr1.length;
-        
-       
         int b1 = arr2.length;
-        
-      
         int c1 = a1 + b1;
   
         
